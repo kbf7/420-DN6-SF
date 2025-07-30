@@ -7,7 +7,9 @@
 Vous devez expliquer le problème **majeur** de sécurité associé avec l'algorithme du chiffrement de César. Et, quel principe est démontré par ce problème ?
 
 **Réponse :**  
-
+ Le chiffrement de César est super facile à casser : pour 
+déchiffrer un texte chiffré donné, il suffit de décaler les lettres de 
+trois positions pour récupérer le texte en clair.
 
 #### Programmation  
 
